@@ -8,7 +8,7 @@ You can know more about me [here](https://tejesh-raut.github.io/)
 
 ### Connect with me:
 
-[<img align="left" alt="Tejesh-Raut.github.io" width="22px" src="https://tejesh-raut.github.io/images/favicon.ico" />][website]
+[<img align="left" alt="Tejesh-Raut.github.io" width="22px" src="https://tejesh-raut.github.io/favicon.ico" />][website]
 [<img align="left" alt="Tejesh-Raut | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
 [<img align="left" alt="tejesh-raut | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Tejesh-Raut | Quora" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/quora.svg" />][quora]
